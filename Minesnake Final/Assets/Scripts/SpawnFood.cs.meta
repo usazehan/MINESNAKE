@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1ad6f15880d6ab84e82b3993d757714c
+timeCreated: 1509409993
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - foodPrefab: {fileID: 1589888966730342, guid: d4b4e2cf809b7e3468334029ef8f8889,
+      type: 2}
+  - minePrefab: {fileID: 1853245151136210, guid: 0e5a5ef85c1a3e84c9d86e24731cc612,
+      type: 2}
+  - powerupPrefab: {fileID: 1031631898805684, guid: b6c72ea30230d5d4693458a7d6c9b23a,
+      type: 2}
+  - borderTop: {instanceID: 0}
+  - borderBottom: {instanceID: 0}
+  - borderLeft: {instanceID: 0}
+  - borderRight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSnake 2.0", "Assembly-CSharp.csproj", "{558AF607-AE04-3359-4DA3-4770838693FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558AF607-AE04-3359-4DA3-4770838693FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558AF607-AE04-3359-4DA3-4770838693FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558AF607-AE04-3359-4DA3-4770838693FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558AF607-AE04-3359-4DA3-4770838693FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

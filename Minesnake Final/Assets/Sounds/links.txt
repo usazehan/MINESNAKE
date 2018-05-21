@@ -1,0 +1,20 @@
+apple-crunch
+	https://freesound.org/people/Koops/sounds/20264/
+
+explosion
+	https://freesound.org/people/MusicLegends/sounds/344303/
+
+game-over
+	https://freesound.org/people/josepharaoh99/sounds/364929/
+
+lose-body-part
+	https://freesound.org/people/OwlStorm/sounds/404743/
+
+power-up
+	https://freesound.org/people/Cman634/sounds/198784/
+
+arcade-theme-2
+	https://freesound.org/people/tyops/sounds/341729/
+
+snake-theme
+	https://freesound.org/people/cormi/sounds/328690/
